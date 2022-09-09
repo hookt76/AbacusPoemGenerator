@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbacusPoemGenerator", "AbacusPoemGenerator\AbacusPoemGenerator.csproj", "{059BEA7B-802B-4B28-B7A8-864EC3A9CCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{FC62B96D-FB9B-45F8-823F-F62865B4B9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{48C6AB3D-15D1-415D-BCBD-1AC5D5ED27C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoemGenTester", "PoemGenTester\PoemGenTester.csproj", "{2F76E1A6-46FC-4966-B722-9385099319C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059BEA7B-802B-4B28-B7A8-864EC3A9CCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059BEA7B-802B-4B28-B7A8-864EC3A9CCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059BEA7B-802B-4B28-B7A8-864EC3A9CCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059BEA7B-802B-4B28-B7A8-864EC3A9CCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC62B96D-FB9B-45F8-823F-F62865B4B9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC62B96D-FB9B-45F8-823F-F62865B4B9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC62B96D-FB9B-45F8-823F-F62865B4B9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC62B96D-FB9B-45F8-823F-F62865B4B9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C6AB3D-15D1-415D-BCBD-1AC5D5ED27C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C6AB3D-15D1-415D-BCBD-1AC5D5ED27C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C6AB3D-15D1-415D-BCBD-1AC5D5ED27C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C6AB3D-15D1-415D-BCBD-1AC5D5ED27C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F76E1A6-46FC-4966-B722-9385099319C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F76E1A6-46FC-4966-B722-9385099319C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F76E1A6-46FC-4966-B722-9385099319C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F76E1A6-46FC-4966-B722-9385099319C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B95C1A4-4CE2-401E-B748-4E2F261A6E18}
+	EndGlobalSection
+EndGlobal
